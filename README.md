@@ -1,4 +1,4 @@
 # gpb-testprojekt
-Hallo das ist mein Test-Projekt
+Hallo das ist mein Test-Projekt.
 
-die beiden txt-Dateien sind nur zum Test.
+Die beiden txt-Dateien sind nur zum Test.
